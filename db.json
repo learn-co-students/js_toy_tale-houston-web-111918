@@ -4,19 +4,19 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 12
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 13
     },
     {
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 5
     },
     {
       "id": 4,
@@ -47,6 +47,35 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Jessie",
+      "image": "https://vignette.wikia.nocookie.net/p__/images/8/88/Jessie_Toy_Story_3.png/revision/latest?cb=20161023024601&path-prefix=protagonist",
+      "id": 9
+    },
+    {
+      "name": "Lenny",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/b/b6/Id_2784_lenny.jpg/revision/latest?cb=20111206023703",
+      "likes": "0",
+      "id": 10
+    },
+    {
+      "name": "Bullsey",
+      "image": "https://vignette.wikia.nocookie.net/justin-quintanilla/images/4/4c/Bullseye1-character-toy-story.png/revision/latest?cb=20160403000727",
+      "likes": "0",
+      "id": 11
+    },
+    {
+      "name": "Lotso",
+      "image": "https://vignette.wikia.nocookie.net/villains/images/5/5d/LotsOHugginBear.png/revision/latest?cb=20130530225857",
+      "likes": "0",
+      "id": 12
+    },
+    {
+      "name": "Sarge",
+      "image": "https://vignette.wikia.nocookie.net/international-entertainment-project/images/6/6e/Sarge_%28Toy_Story%29.png/revision/latest?cb=20170609213013",
+      "likes": "0",
+      "id": 13
     }
   ]
 }
